@@ -1,0 +1,9 @@
+{
+  "name": "gkt",
+  "version": "1.0.0",
+  "description": "GKT",
+  "url": "https://github.com/keymetrics/gkt",
+  "main": "index.js",
+  "author": "Keymetrics",
+  "license": "MIT"
+}
